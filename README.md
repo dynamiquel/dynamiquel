@@ -20,6 +20,7 @@
 [<img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />][dotNet]
 [<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />][unity]
 [<img align="left" alt="Unreal Engine (early stages)" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" />][unrealEngine]
+[<img align="left" alt="WinUI/UWP (early stages)" width="26px" src="https://docs.microsoft.com/en-us/windows/apps/images/logo-winui.png" />][winUI]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
 <br/>
@@ -39,4 +40,5 @@
 [dotNet]: https://dotnet.microsoft.com/
 [unity]: https://unity.com/
 [unrealEngine]: https://www.unrealengine.com/
+[winUI]: https://docs.microsoft.com/en-us/windows/apps/winui/
 [git]: https://git-scm.com/
