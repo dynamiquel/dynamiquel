@@ -31,7 +31,7 @@
 <img align="left" alt="dynamiquel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dynamiquel&show_icons=true&hide_border=true&title_color=41DDB6&icon_color=9E06CF&count_private=true" />
 
 [website]: https://liamhall.me
-[linkedIn]: https://www.linkedin.com/in/liamkohall/
+[linkedIn]: https://www.linkedin.com/in/lol/
 [vsCode]: https://code.visualstudio.com/
 [vs]: https://visualstudio.microsoft.com/vs/
 [rider]: https://www.jetbrains.com/rider/
