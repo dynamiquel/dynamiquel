@@ -1,7 +1,7 @@
 ### Hi there, I'm Liam - aka dynamiquel 👋
 
 ## I'm a Computer Science student looking to work in Game Dev 🎮
-- 🔭 I’m currently working on a Unity game!
+- 🔭 I’m currently just trying to get through university.
 - 🌱 I’m currently learning WinUI 3, Unreal Engine and Unity.
 - 🎯 2020 goals: Transfer most of my Unity skills to Unreal Engine.
 
