@@ -1,9 +1,9 @@
 ### Hi there, I'm Liam - aka dynamiquel 👋
 
 ## I'm a Computer Science student looking to work in Game Dev 🎮
-- 🔭 I’m currently just trying to get through university.
-- 🌱 I’m currently learning WinUI 3, Unreal Engine and Unity.
-- 🎯 2020 goals: Transfer most of my Unity skills to Unreal Engine.
+- 🔭 I’m currently just trying to get through university; working on a multiplayer arena shooter on the side.
+- 🌱 I’m currently learning Unreal Engine.
+- 🎯 2021 goals: Be as proficient in Unreal Engine as I am in Unity.
 
 ### Connect with me
 [<img align="left" alt="liamhall.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
