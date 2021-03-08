@@ -6,7 +6,7 @@
 - 🎯 2021 goals: Be as proficient in Unreal Engine as I am in Unity.
 
 ### Connect with me
-[<img align="left" alt="liamhall.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="liamhall.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="dynamiquel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
 
 <br/>
@@ -30,7 +30,7 @@
 
 <img align="left" alt="dynamiquel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dynamiquel&show_icons=true&hide_border=true&title_color=41DDB6&icon_color=9E06CF&count_private=true" />
 
-[website]: https://liamhall.me
+[website]: https://liamhall.dev
 [linkedIn]: https://www.linkedin.com/in/liamkohall/
 [vsCode]: https://code.visualstudio.com/
 [vs]: https://visualstudio.microsoft.com/vs/
