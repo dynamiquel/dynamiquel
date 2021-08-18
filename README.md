@@ -1,9 +1,8 @@
 ### Hi there, I'm Liam - aka dynamiquel 👋
 
 ## I'm a Computer Science student looking to work in Game Dev 🎮
-- 🔭 I’m currently just trying to get through university; working on a multiplayer arena shooter on the side.
-- 🌱 I’m currently learning Unreal Engine.
-- 🎯 2021 goals: Be as proficient in Unreal Engine as I am in Unity.
+- 🔭 I’m currently creating a fully-fletched indie game with a business partner.
+- 🎯 2021-2022 goals: Bust my ass off creating this new game.
 
 ### Connect with me
 [<img align="left" alt="liamhall.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
