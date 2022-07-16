@@ -1,33 +1,43 @@
-### Hi there, I'm Liam - aka dynamiquel 👋
+### Hello, World! I'm Liam - aka dynamiquel 👋
 
-## I'm a Computer Science student looking to work in Game Dev 🎮
-- 🔭 I’m currently creating a fully-fletched indie game with a business partner.
-- 🎯 2021-2022 goals: Bust my ass off creating this new game.
+## I'm a Computer Science student wanting work in Game Dev 🎮
+Located in the UK, I’m currently trying to bust my ass off working on an upcoming indie game, [**Abstruse**](https://vixentail.com), whiles under the pressure of my final year studies.
+I'm also interested in messing around with Google Flutter and Dart.
+
 
 ### Connect with me
 [<img align="left" alt="liamhall.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="dynamiquel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
+[<img align="left" alt="dynamiquel | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/>][linkedIn]
 
 <br/>
 
-### Languages and tools
-[<img align="left" alt="Rider" width="26px" src="https://raw.githubusercontent.com/maartenba/rider-content/main/logo.jpg" />][rider]
-[<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />][vs]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" />][vsCode]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][cs]
-[<img align="left" alt="C++ (early stages)" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][cpp]
-[<img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />][dotNet]
-[<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />][unity]
-[<img align="left" alt="Unreal Engine (early stages)" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" />][unrealEngine]
-[<img align="left" alt="WinUI/UWP (early stages)" width="26px" src="https://docs.microsoft.com/en-us/windows/apps/images/logo-winui.png" />][winUI]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+### Technologies
+<a href="#">
 
-<br/>
-<br/>
+![cs](https://img.shields.io/badge/Language-C%23-%239e06cf?logo=C%20Sharp)
+![cpp](https://img.shields.io/badge/Language-C%2B%2B-%234acaa8?logo=C%2B%2B)
 
----
+![ue5](https://img.shields.io/badge/Engine-Unreal%20Engine-%239e06cf?logo=Unreal%20Engine)
+![unity](https://img.shields.io/badge/Engine-Unity-%234acaa8?logo=Unity)
+![eos](https://img.shields.io/badge/Lib-Epic%20Online%20Services-%234acaa8?logo=Epic%20Games)
+![dotnet](https://img.shields.io/badge/Lib-.NET-%234acaa8?logo=.NET)
+![winui](https://img.shields.io/badge/Lib-WinUI%203-%234acaa8?logo=Windows)
 
-<img align="left" alt="dynamiquel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dynamiquel&show_icons=true&hide_border=true&title_color=41DDB6&icon_color=9E06CF&count_private=true" />
+![rider](https://img.shields.io/badge/Editor-Rider-%239e06cf?logo=Rider)
+![windows](https://img.shields.io/badge/Platform-Windows-%239e06cf?logo=Windows)
+
+</a>
+
+
+### Boring stats
+
+<a href="#">
+
+  <img align="left" alt="dynamiquel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dynamiquel&show_icons=true&hide_border=true&title_color=41DDB6&icon_color=9E06CF&count_private=true&bg_color=1d1f21&text_color=c9cacc&line_height=27" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynamiquel&hide=shaderlab,hlsl,html,tex&hide_border=true&title_color=41DDB6&icon_color=9E06CF&count_private=true&bg_color=1d1f21&text_color=c9cacc&langs_count=3" />
+  
+</a>
 
 [website]: https://liamhall.dev
 [linkedIn]: https://www.linkedin.com/in/liamkohall/
