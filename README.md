@@ -23,6 +23,10 @@ I'm also interested in messing around with Google Flutter and Dart.
 ![dotnet](https://img.shields.io/badge/Lib-.NET-%234acaa8?logo=.NET)
 ![winui](https://img.shields.io/badge/Lib-WinUI%203-%234acaa8?logo=Windows)
 
+![steamworks](https://img.shields.io/badge/Publishing-Steamworks-%239e06cf?logo=Steam)
+![msstore](https://img.shields.io/badge/Publishing-MS%20Store-%234acaa8?logo=Microsoft)
+
+
 ![rider](https://img.shields.io/badge/Editor-Rider-%239e06cf?logo=Rider)
 ![windows](https://img.shields.io/badge/Platform-Windows-%239e06cf?logo=Windows)
 
